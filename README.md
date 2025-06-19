@@ -27,4 +27,4 @@
 
 ### Autor do Projeto
 
-[![GataNina-Li](https://files.nexhub.fun/api/uploads/3ec09dbe-3ed1-407d-860e-2722154a355b/image/4e67f39e-e937-42ed-9756-147ab01a9773.png)](https://github.com/vncscode)
+[![GataNina-Li](https://files.nexhub.fun/api/uploads/3ec09dbe-3ed1-407d-860e-2722154a355b/image/4e67f39e-e937-42ed-9756-147ab01a9773.png?siza=100)](https://github.com/vncscode)
