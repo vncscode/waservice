@@ -1,0 +1,68 @@
+{
+  "dependencies": {
+    "@cacheable/node-cache": "^1.5.4",
+    "@caeljs/config": "^0.9.2",
+    "@caeljs/logger": "^3.0.2",
+    "@distube/ytdl-core": "^4.16.8",
+    "@faouzkk/tiktok-dl": "^1.0.1",
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@google/genai": "^1.4.0",
+    "@google/generative-ai": "^0.24.0",
+    "@hapi/boom": "^10.0.1",
+    "@napi-rs/canvas": "^0.1.69",
+    "aptoide-api": "^4.0.7",
+    "awesome-phonenumber": "^7.4.0",
+    "axios": "^1.9.0",
+    "baileys": "^6.7.17",
+    "cheerio": "^1.0.0",
+    "chokidar": "^4.0.3",
+    "fast-glob": "^3.3.3",
+    "ffmpeg-static": "^5.2.0",
+    "form-data": "^4.0.3",
+    "g-i-s": "^2.1.7",
+    "happy-dl": "github:ImHappyKumar/happy-dl",
+    "linkifyjs": "^4.2.0",
+    "loggings": "^1.6.0",
+    "mime-types": "^3.0.1",
+    "moment": "^2.30.1",
+    "moment-timezone": "^0.5.48",
+    "musicard-quartz": "^1.0.0",
+    "nex-uploader": "^1.0.3",
+    "node-cron": "^3.0.3",
+    "ping": "^0.4.4",
+    "pino": "^9.6.0",
+    "proper-lockfile": "^4.1.2",
+    "qrcode-terminal": "^0.12.0",
+    "ruhend-scraper": "^9.0.1",
+    "sharp": "^0.32.6",
+    "string-similarity": "^4.0.4",
+    "systeminformation": "^5.25.11",
+    "uuid": "^11.1.0",
+    "wa-sticker-formatter": "^4.4.4"
+  },
+  "name": "WaService",
+  "version": "1.0.7",
+  "description": "Wa Service é automação feita para atender todos os requisitos de segurança.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "node .",
+    "start": "node --watch ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SevenOnlykkj/waservice.git"
+  },
+  "keywords": [
+    "BASE",
+    "NEX"
+  ],
+  "author": "vncscode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vncscode/waservice/issues"
+  },
+  "homepage": "https://github.com/vncscode/waservice#readme",
+  "devDependencies": {
+    "@types/node": "^22.14.1"
+  }
+}

@@ -1,0 +1,768 @@
+{
+    "languages": [
+      {
+        "idioma": "Abecásio",
+        "codigo_iso": "ab"
+      },
+      {
+        "idioma": "Achém",
+        "codigo_iso": "ace"
+      },
+      {
+        "idioma": "Acholi",
+        "codigo_iso": "ach"
+      },
+      {
+        "idioma": "Africâner",
+        "codigo_iso": "af"
+      },
+      {
+        "idioma": "Albanês",
+        "codigo_iso": "sq"
+      },
+      {
+        "idioma": "Alur",
+        "codigo_iso": "alz"
+      },
+      {
+        "idioma": "Amárico",
+        "codigo_iso": "am"
+      },
+      {
+        "idioma": "Árabe",
+        "codigo_iso": "ar"
+      },
+      {
+        "idioma": "Armênio",
+        "codigo_iso": "hy"
+      },
+      {
+        "idioma": "Assamês",
+        "codigo_iso": "as"
+      },
+      {
+        "idioma": "Awadhi",
+        "codigo_iso": "awa"
+      },
+      {
+        "idioma": "Aimará",
+        "codigo_iso": "ay"
+      },
+      {
+        "idioma": "Azerbaijano",
+        "codigo_iso": "az"
+      },
+      {
+        "idioma": "Balinês",
+        "codigo_iso": "ban"
+      },
+      {
+        "idioma": "Bambara",
+        "codigo_iso": "bm"
+      },
+      {
+        "idioma": "Bashkir",
+        "codigo_iso": "ba"
+      },
+      {
+        "idioma": "Basco",
+        "codigo_iso": "eu"
+      },
+      {
+        "idioma": "Batak karo",
+        "codigo_iso": "btx"
+      },
+      {
+        "idioma": "Batak simalungun",
+        "codigo_iso": "bts"
+      },
+      {
+        "idioma": "Batak toba",
+        "codigo_iso": "bbc"
+      },
+      {
+        "idioma": "Bielorrusso",
+        "codigo_iso": "be"
+      },
+      {
+        "idioma": "Bemba",
+        "codigo_iso": "bem"
+      },
+      {
+        "idioma": "Bengalês",
+        "codigo_iso": "bn"
+      },
+      {
+        "idioma": "Betawi",
+        "codigo_iso": "bew"
+      },
+      {
+        "idioma": "Boiapuri",
+        "codigo_iso": "bho"
+      },
+      {
+        "idioma": "Bikol",
+        "codigo_iso": "bik"
+      },
+      {
+        "idioma": "Bósnio",
+        "codigo_iso": "bs"
+      },
+      {
+        "idioma": "Bretão",
+        "codigo_iso": "br"
+      },
+      {
+        "idioma": "Búlgaro",
+        "codigo_iso": "bg"
+      },
+      {
+        "idioma": "Buriata",
+        "codigo_iso": "bua"
+      },
+      {
+        "idioma": "Cantonês",
+        "codigo_iso": "yue"
+      },
+      {
+        "idioma": "Catalão",
+        "codigo_iso": "ca"
+      },
+      {
+        "idioma": "Cebuano",
+        "codigo_iso": "ceb"
+      },
+      {
+        "idioma": "Chicheua (nyanja)",
+        "codigo_iso": "ny"
+      },
+      {
+        "idioma": "Chinês (simplificado)",
+        "codigo_iso": "zh-CN"
+      },
+      {
+        "idioma": "Chinês (tradicional)",
+        "codigo_iso": "zh-TW"
+      },
+      {
+        "idioma": "Chuvache",
+        "codigo_iso": "cv"
+      },
+      {
+        "idioma": "Tártaro da Crimeia",
+        "codigo_iso": "crh"
+      },
+      {
+        "idioma": "Croata",
+        "codigo_iso": "hr"
+      },
+      {
+        "idioma": "Tcheco",
+        "codigo_iso": "cs"
+      },
+      {
+        "idioma": "Dinamarquês",
+        "codigo_iso": "da"
+      },
+      {
+        "idioma": "Dinca",
+        "codigo_iso": "din"
+      },
+      {
+        "idioma": "Divehi",
+        "codigo_iso": "dv"
+      },
+      {
+        "idioma": "Dogri",
+        "codigo_iso": "doi"
+      },
+      {
+        "idioma": "Dombe",
+        "codigo_iso": "dov"
+      },
+      {
+        "idioma": "Holandês",
+        "codigo_iso": "nl"
+      },
+      {
+        "idioma": "Dzonga",
+        "codigo_iso": "dz"
+      },
+      {
+        "idioma": "Inglês",
+        "codigo_iso": "en"
+      },
+      {
+        "idioma": "Esperanto",
+        "codigo_iso": "eo"
+      },
+      {
+        "idioma": "Estoniano",
+        "codigo_iso": "et"
+      },
+      {
+        "idioma": "Ewe",
+        "codigo_iso": "ee"
+      },
+      {
+        "idioma": "Fijiano",
+        "codigo_iso": "fj"
+      },
+      {
+        "idioma": "Filipino (Tagalog)",
+        "codigo_iso": "fil"
+      },
+      {
+        "idioma": "Finlandês",
+        "codigo_iso": "fi"
+      },
+      {
+        "idioma": "Francês",
+        "codigo_iso": "fr"
+      },
+      {
+        "idioma": "Francês (França)",
+        "codigo_iso": "fr-FR"
+      },
+      {
+        "idioma": "Francês (Canadá)",
+        "codigo_iso": "fr-CA"
+      },
+      {
+        "idioma": "Frísio",
+        "codigo_iso": "fy"
+      },
+      {
+        "idioma": "Fulfulde",
+        "codigo_iso": "ff"
+      },
+      {
+        "idioma": "Ga",
+        "codigo_iso": "gaa"
+      },
+      {
+        "idioma": "Galego",
+        "codigo_iso": "gl"
+      },
+      {
+        "idioma": "Ganda (luganda)",
+        "codigo_iso": "lg"
+      },
+      {
+        "idioma": "Georgiano",
+        "codigo_iso": "ka"
+      },
+      {
+        "idioma": "Alemão",
+        "codigo_iso": "de"
+      },
+      {
+        "idioma": "Grego",
+        "codigo_iso": "el"
+      },
+      {
+        "idioma": "Guarani",
+        "codigo_iso": "gn"
+      },
+      {
+        "idioma": "Gujarati",
+        "codigo_iso": "gu"
+      },
+      {
+        "idioma": "Crioulo haitiano",
+        "codigo_iso": "ht"
+      },
+      {
+        "idioma": "Hakha Chin",
+        "codigo_iso": "cnh"
+      },
+      {
+        "idioma": "Hauçá",
+        "codigo_iso": "ha"
+      },
+      {
+        "idioma": "Havaiano",
+        "codigo_iso": "haw"
+      },
+      {
+        "idioma": "Hebraico",
+        "codigo_iso": "he"
+      },
+      {
+        "idioma": "Hiligaynon",
+        "codigo_iso": "hil"
+      },
+      {
+        "idioma": "Hindi",
+        "codigo_iso": "hi"
+      },
+      {
+        "idioma": "Hmong",
+        "codigo_iso": "hmn"
+      },
+      {
+        "idioma": "Húngaro",
+        "codigo_iso": "hu"
+      },
+      {
+        "idioma": "Hunsrik",
+        "codigo_iso": "hrx"
+      },
+      {
+        "idioma": "Islandês",
+        "codigo_iso": "is"
+      },
+      {
+        "idioma": "Ibo",
+        "codigo_iso": "ig"
+      },
+      {
+        "idioma": "Iloko",
+        "codigo_iso": "ilo"
+      },
+      {
+        "idioma": "Indonésio",
+        "codigo_iso": "id"
+      },
+      {
+        "idioma": "Irlandês",
+        "codigo_iso": "ga"
+      },
+      {
+        "idioma": "Italiano",
+        "codigo_iso": "it"
+      },
+      {
+        "idioma": "Japonês",
+        "codigo_iso": "ja"
+      },
+      {
+        "idioma": "Javanês",
+        "codigo_iso": "jv"
+      },
+      {
+        "idioma": "Canarês",
+        "codigo_iso": "kn"
+      },
+      {
+        "idioma": "Kapampangan",
+        "codigo_iso": "pam"
+      },
+      {
+        "idioma": "Cazaque",
+        "codigo_iso": "kk"
+      },
+      {
+        "idioma": "Khmer",
+        "codigo_iso": "km"
+      },
+      {
+        "idioma": "Kiga",
+        "codigo_iso": "cgg"
+      },
+      {
+        "idioma": "Quiniaruanda",
+        "codigo_iso": "rw"
+      },
+      {
+        "idioma": "Kituba",
+        "codigo_iso": "ktu"
+      },
+      {
+        "idioma": "Concani",
+        "codigo_iso": "gom"
+      },
+      {
+        "idioma": "Coreano",
+        "codigo_iso": "ko"
+      },
+      {
+        "idioma": "Krio",
+        "codigo_iso": "kri"
+      },
+      {
+        "idioma": "Curdo (kurmanji)",
+        "codigo_iso": "ku"
+      },
+      {
+        "idioma": "Kurdish (Sorani)",
+        "codigo_iso": "ckb"
+      },
+      {
+        "idioma": "Quirguiz",
+        "codigo_iso": "ky"
+      },
+      {
+        "idioma": "Laosiano",
+        "codigo_iso": "lo"
+      },
+      {
+        "idioma": "Latgaliano",
+        "codigo_iso": "ltg"
+      },
+      {
+        "idioma": "Latim",
+        "codigo_iso": "la"
+      },
+      {
+        "idioma": "Letão",
+        "codigo_iso": "lv"
+      },
+      {
+        "idioma": "Lígure",
+        "codigo_iso": "lij"
+      },
+      {
+        "idioma": "Limburguês",
+        "codigo_iso": "li"
+      },
+      {
+        "idioma": "Lingala",
+        "codigo_iso": "ln"
+      },
+      {
+        "idioma": "Lituano",
+        "codigo_iso": "lt"
+      },
+      {
+        "idioma": "Lombardo",
+        "codigo_iso": "lmo"
+      },
+      {
+        "idioma": "Luo",
+        "codigo_iso": "luo"
+      },
+      {
+        "idioma": "Luxemburguês",
+        "codigo_iso": "lb"
+      },
+      {
+        "idioma": "Macedônio",
+        "codigo_iso": "mk"
+      },
+      {
+        "idioma": "Maithili",
+        "codigo_iso": "mai"
+      },
+      {
+        "idioma": "Makassar",
+        "codigo_iso": "mak"
+      },
+      {
+        "idioma": "Malgaxe",
+        "codigo_iso": "mg"
+      },
+      {
+        "idioma": "Malaio",
+        "codigo_iso": "ms"
+      },
+      {
+        "idioma": "Malaiala",
+        "codigo_iso": "ml"
+      },
+      {
+        "idioma": "Maltês",
+        "codigo_iso": "mt"
+      },
+      {
+        "idioma": "Maori",
+        "codigo_iso": "mi"
+      },
+      {
+        "idioma": "Marati",
+        "codigo_iso": "mr"
+      },
+      {
+        "idioma": "Mari oriental",
+        "codigo_iso": "chm"
+      },
+      {
+        "idioma": "Meiteilon (Manipuri)",
+        "codigo_iso": "mni-Mtei"
+      },
+      {
+        "idioma": "Minang",
+        "codigo_iso": "min"
+      },
+      {
+        "idioma": "Mizo",
+        "codigo_iso": "lus"
+      },
+      {
+        "idioma": "Mongol",
+        "codigo_iso": "mn"
+      },
+      {
+        "idioma": "Mianmar (Birmanês)",
+        "codigo_iso": "my"
+      },
+      {
+        "idioma": "Ndebele (sul)",
+        "codigo_iso": "nr"
+      },
+      {
+        "idioma": "Nepal bhasa (neuari)",
+        "codigo_iso": "new"
+      },
+      {
+        "idioma": "Nepalês",
+        "codigo_iso": "ne"
+      },
+      {
+        "idioma": "Soto do norte (sepedi)",
+        "codigo_iso": "nso"
+      },
+      {
+        "idioma": "Norueguês",
+        "codigo_iso": "no"
+      },
+      {
+        "idioma": "Nuer",
+        "codigo_iso": "nus"
+      },
+      {
+        "idioma": "Occitânico",
+        "codigo_iso": "oc"
+      },
+      {
+        "idioma": "Oriá",
+        "codigo_iso": "or"
+      },
+      {
+        "idioma": "Oromo",
+        "codigo_iso": "om"
+      },
+      {
+        "idioma": "Língua pangasiana",
+        "codigo_iso": "pag"
+      },
+      {
+        "idioma": "Papiamento",
+        "codigo_iso": "pap"
+      },
+      {
+        "idioma": "Pashto",
+        "codigo_iso": "ps"
+      },
+      {
+        "idioma": "Persa",
+        "codigo_iso": "fa"
+      },
+      {
+        "idioma": "Polonês",
+        "codigo_iso": "pl"
+      },
+      {
+        "idioma": "Português",
+        "codigo_iso": "pt"
+      },
+      {
+        "idioma": "Português (Portugal)",
+        "codigo_iso": "pt-PT"
+      },
+      {
+        "idioma": "Português (Brasil)",
+        "codigo_iso": "pt-BR"
+      },
+      {
+        "idioma": "Punjabi",
+        "codigo_iso": "pa"
+      },
+      {
+        "idioma": "Quíchua",
+        "codigo_iso": "qu"
+      },
+      {
+        "idioma": "Romani",
+        "codigo_iso": "rom"
+      },
+      {
+        "idioma": "Romeno",
+        "codigo_iso": "ro"
+      },
+      {
+        "idioma": "Rundi",
+        "codigo_iso": "rn"
+      },
+      {
+        "idioma": "Russo",
+        "codigo_iso": "ru"
+      },
+      {
+        "idioma": "Samoano",
+        "codigo_iso": "sm"
+      },
+      {
+        "idioma": "Sango",
+        "codigo_iso": "sg"
+      },
+      {
+        "idioma": "Sânscrito",
+        "codigo_iso": "sa"
+      },
+      {
+        "idioma": "Escocês gaélico",
+        "codigo_iso": "gd"
+      },
+      {
+        "idioma": "Sérvio",
+        "codigo_iso": "sr"
+      },
+      {
+        "idioma": "Sesotho",
+        "codigo_iso": "st"
+      },
+      {
+        "idioma": "Crioulo de Seychelles",
+        "codigo_iso": "crs"
+      },
+      {
+        "idioma": "Shan",
+        "codigo_iso": "shn"
+      },
+      {
+        "idioma": "Chona",
+        "codigo_iso": "sn"
+      },
+      {
+        "idioma": "Siciliano",
+        "codigo_iso": "scn"
+      },
+      {
+        "idioma": "Silesiano",
+        "codigo_iso": "szl"
+      },
+      {
+        "idioma": "Sindi",
+        "codigo_iso": "sd"
+      },
+      {
+        "idioma": "Sinhala (cingalês)",
+        "codigo_iso": "si"
+      },
+      {
+        "idioma": "Eslovaco",
+        "codigo_iso": "sk"
+      },
+      {
+        "idioma": "Esloveno",
+        "codigo_iso": "sl"
+      },
+      {
+        "idioma": "Somali",
+        "codigo_iso": "so"
+      },
+      {
+        "idioma": "Espanhol",
+        "codigo_iso": "es"
+      },
+      {
+        "idioma": "Sundanês",
+        "codigo_iso": "su"
+      },
+      {
+        "idioma": "Suaíli",
+        "codigo_iso": "sw"
+      },
+      {
+        "idioma": "Swati",
+        "codigo_iso": "ss"
+      },
+      {
+        "idioma": "Sueco",
+        "codigo_iso": "sv"
+      },
+      {
+        "idioma": "Tadjique",
+        "codigo_iso": "tg"
+      },
+      {
+        "idioma": "Tâmil",
+        "codigo_iso": "ta"
+      },
+      {
+        "idioma": "Tártaro",
+        "codigo_iso": "tt"
+      },
+      {
+        "idioma": "Télugo",
+        "codigo_iso": "te"
+      },
+      {
+        "idioma": "Tétum",
+        "codigo_iso": "tet"
+      },
+      {
+        "idioma": "Tailandês",
+        "codigo_iso": "th"
+      },
+      {
+        "idioma": "Tigrínia",
+        "codigo_iso": "ti"
+      },
+      {
+        "idioma": "Tsonga",
+        "codigo_iso": "ts"
+      },
+      {
+        "idioma": "Tswana",
+        "codigo_iso": "tn"
+      },
+      {
+        "idioma": "Turco",
+        "codigo_iso": "tr"
+      },
+      {
+        "idioma": "Turcomano",
+        "codigo_iso": "tk"
+      },
+      {
+        "idioma": "Twi (Akan)",
+        "codigo_iso": "ak"
+      },
+      {
+        "idioma": "Ucraniano",
+        "codigo_iso": "uk"
+      },
+      {
+        "idioma": "Urdu",
+        "codigo_iso": "ur"
+      },
+      {
+        "idioma": "Uyghur",
+        "codigo_iso": "ug"
+      },
+      {
+        "idioma": "Usbeque",
+        "codigo_iso": "uz"
+      },
+      {
+        "idioma": "Vietnamita",
+        "codigo_iso": "vi"
+      },
+      {
+        "idioma": "Galês",
+        "codigo_iso": "cy"
+      },
+      {
+        "idioma": "Xhosa",
+        "codigo_iso": "xh"
+      },
+      {
+        "idioma": "Ídiche",
+        "codigo_iso": "yi"
+      },
+      {
+        "idioma": "Iorubá",
+        "codigo_iso": "yo"
+      },
+      {
+        "idioma": "Iucateque",
+        "codigo_iso": "yua"
+      },
+      {
+        "idioma": "Zulu",
+        "codigo_iso": "zu"
+      }
+    ]
+  }
