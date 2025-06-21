@@ -5,8 +5,6 @@ const { NexSocket } = require("../socket");
 const { Boom } = require("@hapi/boom");
 const { startGroupSchedule } = require("../scripts/groupScheduleHandler");
 const { iniciarMonitoramento } = require("../scripts/qrCleaner.js");
-const qrcode = require("qrcode-terminal");
-const {LoggingsFormatKitController} = require("@caeljs/logger")
 const DisconnectReason = {
     connectionClosed: 428,
     connectionLost: 408,
@@ -66,17 +64,7 @@ module.exports = createEvent({
     name: "Status de Conexão",
     event: "connection.update",
     run: async (update, client) => {
-        const { connection, lastDisconnect, qr } = update;
-		if (qr) {
-          console.log("🔹 Escaneie o QR Code abaixo para conectar seu WhatsApp:");      
-          qrcode.generate(qr, { small: true },
-            (code) => process.stdin.write(
-              LoggingsFormatKitController(
-                `[${code}].blue\n`
-              )
-            )
-          );
-    	}
+        const { connection, lastDisconnect } = update;
         if (connection === "close") {
             const shouldReconnect = new Boom(lastDisconnect?.error)?.output
                 .statusCode;

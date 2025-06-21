@@ -17,8 +17,8 @@ const Config = new ConfigJS(envDriver, {
     name: c.string().prop("BOT_NAME").default("🤖 WA SERVICE"),
     version: c.string().prop("BOT_VERSION").default("1.0.0"),
     owners: c.array(c.string()).prop("BOT_DONOS").default([]),
-    creator: c.string().prop("BOT_CRIADOR").default("557399197974")
-
+    creator: c.string().prop("BOT_CRIADOR").default("557399197974"),
+    code: c.boolean().prop("BOT_USE_CODE").default(false)
 });
 
 const rl = createInterface(process.stdin, process.stdout);
