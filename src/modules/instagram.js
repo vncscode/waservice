@@ -1,5 +1,5 @@
 const { igdl } = require('ruhend-scraper');
-const happyDL = require("happy-dl");
+const happyDL = require("./happy-dl/index.js");
 
 async function instadl(url) {
     try {
