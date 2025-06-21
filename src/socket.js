@@ -30,7 +30,6 @@ class NexSocket {
       syncFullHistory: true,
       browser: Browsers.ubuntu(`${Config.get("name")}`), // Personalizar o nome do navegador
       markOnlineOnConnect: true,
-      printQRInTerminal: true, // Definido como true para exibir o QR code no terminal
       generateHighQualityLinkPreview: true,
       emitOwnEvents: true,
       // Removido deviceList conforme solicitado

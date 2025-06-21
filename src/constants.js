@@ -42,7 +42,7 @@ const logger = new Loggings({
     title: Config.get("name"),
     plugins: [ConsolePlugin, RegisterPlugin]
 });
-
+Loggings.useConsole(logger)
 module.exports = {
     Config,
     NEX_STORE_CONN,
